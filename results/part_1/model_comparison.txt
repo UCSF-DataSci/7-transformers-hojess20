@@ -1,0 +1,19 @@
+best_model: Residual NN
+accuracy: 0.9200000166893005
+precision: 0.922077922077922
+recall: 0.922077922077922
+f1_score: 0.922077922077922
+confusion_matrix: [[67, 6], [6, 71]]
+
+--- Cross-Validation Results ---
+model_1_mean_accuracy: 0.9357142806053161
+model_1_std_accuracy: 0.02784799441306024
+model_2_mean_accuracy: 0.9357142806053161
+model_2_std_accuracy: 0.01690309416209823
+model_3_mean_accuracy: 0.9385714173316956
+model_3_std_accuracy: 0.01840584266127808
+
+--- Model Complexity Analysis ---
+Simple NN_parameters: 3682
+Deep NN_parameters: 14066
+Residual NN_parameters: 139010

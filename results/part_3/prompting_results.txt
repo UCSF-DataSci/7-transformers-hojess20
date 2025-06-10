@@ -1,0 +1,150 @@
+# Prompt Engineering Results
+
+## Question: What foods should be avoided by patients with gout?
+
+### Zero-shot response:
+ice cream
+
+### One-shot response:
+Gout is a bacterial infection that causes inflammation of the urethra and spleen.
+
+### Few-shot response:
+Gout is a bacterial infection that causes inflammation and irritability in the gastrointestinal tract.
+
+--------------------------------------------------
+
+## Question: What medications are commonly prescribed for gout?
+
+### Zero-shot response:
+acetaminophen
+
+### One-shot response:
+Gout is a bacterial infection that causes inflammation in the gout joint.
+
+### Few-shot response:
+Gout is a bacterial infection that causes inflammation in the urethra and urethra.
+
+--------------------------------------------------
+
+## Question: How can gout flares be prevented?
+
+### Zero-shot response:
+if you have a gout flare, you should take a shower and eat a gout cake.
+
+### One-shot response:
+Gout flares can be prevented by avoiding foods that are high in salt and sugar.
+
+### Few-shot response:
+Gout flares can be prevented by avoiding foods that are high in uric acid.
+
+--------------------------------------------------
+
+## Question: Is gout related to diet?
+
+### Zero-shot response:
+no
+
+### One-shot response:
+Gout is a bacterial infection that can be caused by a variety of causes, including a lack of food or water.
+
+### Few-shot response:
+Gout is a bacterial infection that can be caused by a variety of causes, including a lack of food, lack of exercise, and a lack of food.
+
+--------------------------------------------------
+
+## Question: Can gout be cured permanently?
+
+### Zero-shot response:
+no
+
+### One-shot response:
+Gout is a bacterial infection that causes inflammation and a rash.
+
+### Few-shot response:
+Gout is a bacterial infection that can be treated with antibiotics.
+
+--------------------------------------------------
+
+## Question: What foods should be avoided by patients with gout?
+
+### Zero-shot response:
+ice cream
+
+### One-shot response:
+Gout is a bacterial infection that causes inflammation of the urethra and spleen.
+
+### Few-shot response:
+Gout is a bacterial infection that causes inflammation and irritability in the gastrointestinal tract.
+
+--------------------------------------------------
+
+## Question: What medications are commonly prescribed for gout?
+
+### Zero-shot response:
+acetaminophen
+
+### One-shot response:
+Gout is a bacterial infection that causes inflammation in the gout joint.
+
+### Few-shot response:
+Gout is a bacterial infection that causes inflammation in the urethra and urethra.
+
+--------------------------------------------------
+
+## Question: How can gout flares be prevented?
+
+### Zero-shot response:
+if you have a gout flare, you should take a shower and eat a gout cake.
+
+### One-shot response:
+Gout flares can be prevented by avoiding foods that are high in salt and sugar.
+
+### Few-shot response:
+Gout flares can be prevented by avoiding foods that are high in uric acid.
+
+--------------------------------------------------
+
+## Question: Is gout related to diet?
+
+### Zero-shot response:
+no
+
+### One-shot response:
+Gout is a bacterial infection that can be caused by a variety of causes, including a lack of food or water.
+
+### Few-shot response:
+Gout is a bacterial infection that can be caused by a variety of causes, including a lack of food, lack of exercise, and a lack of food.
+
+--------------------------------------------------
+
+## Question: Can gout be cured permanently?
+
+### Zero-shot response:
+no
+
+### One-shot response:
+Gout is a bacterial infection that causes inflammation and a rash.
+
+### Few-shot response:
+Gout is a bacterial infection that can be treated with antibiotics.
+
+--------------------------------------------------
+
+## Scores
+
+```
+question,zero_shot,one_shot,few_shot
+what_foods_should_be,0.00,0.00,0.00
+what_medications_are_commonly,0.00,0.00,0.00
+how_can_gout_flares,0.00,0.00,0.00
+is_gout_related_to,0.00,0.17,0.17
+can_gout_be_cured,0.00,0.00,0.00
+what_foods_should_be,0.00,0.00,0.00
+what_medications_are_commonly,0.00,0.00,0.00
+how_can_gout_flares,0.00,0.00,0.00
+is_gout_related_to,0.00,0.17,0.17
+can_gout_be_cured,0.00,0.00,0.00
+
+average,0.00,0.00,0.00
+best_method,zero_shot
+```
